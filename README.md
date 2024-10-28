@@ -22,9 +22,8 @@ Habilidades Adicionales: Comunicación, liderazgo en proyectos, desarrollo de di
 ## 📬 Contacto
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/valentin-olarte-dev)
-[![Udemy](https://img.shields.io/badge/Udemy-Brais_Moure-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930)
-[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
+[![LinkedIn]](www.linkedin.com/in/valentin-olarte-dev)
+[![Web]](https://my-profile-valeolartes-projects.vercel.app/)
 
 
 - 🔭 I’m currently working on ...
