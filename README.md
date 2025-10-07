@@ -22,5 +22,5 @@ Habilidades Adicionales: Comunicación, liderazgo en proyectos, desarrollo de di
 ## 📬 Contacto
 
 
-[![LinkedIn]](www.linkedin.com/in/valentin-olarte-dev)
+[![LinkedIn]](https://www.linkedin.com/in/valentin-olarte-dev/)
 [![Web]](https://my-profile-valeolartes-projects.vercel.app/)
