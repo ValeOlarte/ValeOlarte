@@ -3,7 +3,7 @@
 ¡Bienvenidos a mi perfil de GitHub! Soy un apasionado estudiante y desarrollador en proceso, enfocado en programación, tecnología y ciencias exactas. A lo largo de mi trayectoria académica, he explorado varios campos y proyectos, desde ciberseguridad hasta desarrollo de software y robótica, y siempre busco aprender y mejorar mis habilidades. Actualmente, estoy en el proceso de estudiar programación, con especial interés en Python y el dominio de otros lenguajes antes de graduarme.
 
 ## 🚀 Proyectos Destacados
-
+[TimeRich](https://github.com)
 ## 🎯 Objetivos
 
 Ampliar mis conocimientos en programación: Tengo como meta dominar al menos dos lenguajes de programación antes de terminar la universidad, comenzando con Python.
